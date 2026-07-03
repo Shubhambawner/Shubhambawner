@@ -9,8 +9,8 @@ Currently working on:
 
 ---
 
-### Let's Talk Production AI Architecture
-I am deeply focused on the practical design patterns of agentic systems. Here are the core architectural challenges I am actively solving, along with the engineering blueprints I reference:
+### Production AI Challenges I'm Exploring
+I am deeply focused on the practical design patterns of agentic systems. Here are the core architectural challenges I am actively solving, along with the engineering blueprints I found most valuable to refer:
 
 * **Chunking & Embedding Pipelines**
   * *The Challenge:* How do we decide on appropriate chunking and embedding strategies for different data types and sources?
