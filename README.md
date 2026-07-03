@@ -3,11 +3,9 @@
 I am a Software Engineer building AI-powered systems, agentic workflows, and scalable backend platforms.
 
 Currently working on:
-* AI Agents & Multi-Agent Systems
-* Retrieval Augmented Generation (RAG)
+* Cost efficient, Scalable and Robust Agentic Workflow design patterns
 * FastAPI & Distributed Backend Services
 * Search & Knowledge Systems using Elasticsearch
-* LLM-powered Developer Productivity Tools
 
 ---
 
@@ -59,7 +57,7 @@ I am deeply focused on the practical design patterns of agentic systems. Here ar
 
 ---
 
-### Open Source Involvements
+### Past Open Source Involvements
 
 * **[shiksha-platform/frontend-modulefederation (#119)](https://github.com/shiksha-platform/frontend-modulefederation/pull/119)**: Implemented micro-frontend architecture solutions to scale web platform modularity.
 * **[microsoft/STL (#2844)](https://github.com/microsoft/STL/discussions/2844)**: Engaged in low-level systems architecture design discussions regarding the standard template library.
