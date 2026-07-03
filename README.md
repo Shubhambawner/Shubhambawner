@@ -22,6 +22,10 @@ I am deeply focused on the practical design patterns of agentic systems. Here ar
   * *The Challenge:* How do we design retrieval strategies that balance recall constraints with strict latency budgets?
   * *Core Reference:* Pinecone's [System Architecture Blueprints](https://www.pinecone.io/learn/retrieval-augmented-generation/) and Arize Phoenix's [RAG Evaluation Framework](https://docs.arize.com/phoenix/) for optimizing hybrid search, reranking via tools like Cohere, and handling document attribution.
 
+* 💸 **Cost-Efficient Execution & Workflow Discovery**
+  * *The Challenge:* How do we prevent token bloat, optimize agentic runtimes, and automatically discover/reuse workflow patterns to minimize cost?
+  * *Core Reference:* arXiv's [Agent Workflow Optimization (AWO) Framework](https://arxiv.org/html/2601.22037v2) and GitHub's [Engineering Guide to Token Efficiency](https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/) for analyzing trajectory traces, compressing iterative loops into deterministic meta-tools, and utilizing semantic tool caching.
+ 
 * **Production Agent Evaluation**
   * *The Challenge:* How do we evaluate agentic solutions and iteration changes for true production fit?
   * *Core Reference:* Anthropic’s [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) and MLflow's [LLM-as-a-Judge Evaluation Suites](https://mlflow.org/articles/top-llm-observability-tools-in-2026-a-pro-guide/) to transition away from static checklists toward step-wise and end-to-end evaluation metrics.
